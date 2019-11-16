@@ -1,0 +1,11 @@
+User Story:
+
+As an user, I would like to have a python program, that can help me to do the following:
+1) Search all the files within the current folder, 
+* if the file content contains AMAZON, then please rename the file by adding the prefix AMA_ to the current file name.
+
+* if the file content does not contain AMAZON, then rename the file by adding the prefix PUB_ to the current file name.
+
+* also, we should only search the files if the prefix doesn't start with AMA_ or PUB_, which means the file hasn't been searched yet.
+
+* After the program ran, all the files in my current folder should have the prefix either AMA_ or PUB_.

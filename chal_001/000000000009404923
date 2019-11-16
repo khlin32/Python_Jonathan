@@ -1,0 +1,18 @@
+ISA*00*          *00*          *ZZ*1424009        *ZZ*2850893        *191010*1236*U*00300*000020141*0*P*>
+GS*PO*1424009*2850893*191010*1236*20141*X*003060
+ST*850*0001
+BEG*00*NE*01230-0047731**191010**AC
+NTE*ZZZ*Ship orders under 750lbs via our 3rd party FedEx account
+NTE*ZZZ*0605-6662-3; ship orders over 750lbs via our routing
+NTE*ZZZ*instructions at www.follett.com/partners
+CSH*O
+DTM*037*191010***20
+DTM*175*191108***20
+DTM*014*200108***20
+TD5************SE
+N1*ST**15*1000101
+PO1*1*7*UN***IB*1284102882*EN*9781284102888
+CTT*1*7
+SE*14*0001
+GE*1*20141
+IEA*1*000020141
